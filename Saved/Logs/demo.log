@@ -6980,3 +6980,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.17-15.25.22:539][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/背包选项_Sprite" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/背包选项_Sprite.uasset" SILENT=true
 [2023.04.17-15.25.22:542][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/背包选项_SpriteD589B61C422CB7420D3CA38BC37DEAFC.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/背包选项_Sprite.uasset'
 [2023.04.17-15.25.22:542][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/背景（草图）" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/背景（草图）.uasset" SILENT=true
+[2023.04.17-15.25.22:625][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/背景（草图）D30D2A564CFD684A7F3F10A77F411C5D.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/背景（草图）.uasset'
+[2023.04.17-15.25.22:630][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/背景（草图）_Sprite" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/背景（草图）_Sprite.uasset" SILENT=true
+[2023.04.17-15.25.22:634][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/背景（草图）_Sprite64106A3A43FE5D37FC7D89A92BCECE1B.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/背景（草图）_Sprite.uasset'
+[2023.04.17-15.25.22:634][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/药店" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/药店.uasset" SILENT=true
+[2023.04.17-15.25.22:637][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/药店BA25393B424EBBCF741F25B6DF441582.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/药店.uasset'
+[2023.04.17-15.25.22:641][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/药店_Sprite" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/药店_Sprite.uasset" SILENT=true
+[2023.04.17-15.25.22:644][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/药店_Sprite487AA9F44C539EEE8500368CA7F1D2A6.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/药店_Sprite.uasset'
+[2023.04.17-15.25.22:645][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/设置" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/设置.uasset" SILENT=true
+[2023.04.17-15.25.22:648][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/设置F736BDB044DDCCADC16296A8F8097D20.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/设置.uasset'
+[2023.04.17-15.25.22:652][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/设置_Sprite" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/设置_Sprite.uasset" SILENT=true
+[2023.04.17-15.25.22:655][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/设置_Sprite7B2AA12A449E325DFCBFCEA905361ECE.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/设置_Sprite.uasset'
+[2023.04.17-15.25.22:655][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/金钱" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/金钱.uasset" SILENT=true
+[2023.04.17-15.25.22:658][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/金钱CD0F5FBE40F46D6AD5E7E2B43922597C.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/金钱.uasset'
+[2023.04.17-15.25.22:662][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/金钱_Sprite" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/金钱_Sprite.uasset" SILENT=true
+[2023.04.17-15.25.22:665][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/金钱_Sprite882EFDD24D3C5D0D9CCFA7937FFCC5E1.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/金钱_Sprite.uasset'
+[2023.04.17-15.25.22:666][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/铲子图标" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/铲子图标.uasset" SILENT=true
+[2023.04.17-15.25.22:668][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/铲子图标C375F83E43C05B8DA79A3AA207EFAD92.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/铲子图标.uasset'
+[2023.04.17-15.25.22:672][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/铲子图标_Sprite" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/铲子图标_Sprite.uasset" SILENT=true
+[2023.04.17-15.25.22:675][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/铲子图标_SpriteE0EA01F4438DE9EBAA273683A269C4DE.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/铲子图标_Sprite.uasset'
+[2023.04.17-15.25.22:675][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/铲除" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/铲除.uasset" SILENT=true
+[2023.04.17-15.25.22:678][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/铲除AFC235234562597A82A661836F05FAA2.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/铲除.uasset'
+[2023.04.17-15.25.22:681][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/种田/铲除_Sprite" FILE="C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/铲除_Sprite.uasset" SILENT=true
+[2023.04.17-15.25.22:684][501]LogSavePackage: Moving 'C:/Users/PC/git/QQMedicalFarm/Saved/铲除_Sprite65DE2F584384EFF75B3856BBB9A8A470.tmp' to 'C:/Users/PC/git/QQMedicalFarm/Content/Resources/种田/铲除_Sprite.uasset'
+[2023.04.17-15.25.22:699][501]AssetCheck: New page: 资产保存：多个资产
+[2023.04.17-15.25.22:699][501]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/UI/test.test
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Blueprint /Game/BluePrints/BP_Grid.BP_Grid
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Blueprint /Game/BluePrints/BP_Hero.BP_Hero
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/铲除.铲除
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/铲子图标.铲子图标
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/金钱.金钱
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/设置.设置
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/药店.药店
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/背景（草图）.背景（草图）
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/背包选项.背包选项
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/背包栏.背包栏
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/收获图标_未抓取.收获图标_未抓取
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/收获图标_抓取.收获图标_抓取
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/收获.收获
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/播种.播种
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/声望.声望
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/图鉴.图鉴
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/单块土地_未开垦.单块土地_未开垦
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证Texture2D /Game/Resources/种田/单块土地_开垦.单块土地_开垦
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证World /Game/Maps/demoMap.demoMap
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/单块土地_开垦_Sprite.单块土地_开垦_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/单块土地_未开垦_Sprite.单块土地_未开垦_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/图鉴_Sprite.图鉴_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/声望_Sprite.声望_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/播种_Sprite.播种_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/收获_Sprite.收获_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/收获图标_抓取_Sprite.收获图标_抓取_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/收获图标_未抓取_Sprite.收获图标_未抓取_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/背包栏_Sprite.背包栏_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/背包选项_Sprite.背包选项_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/背景（草图）_Sprite.背景（草图）_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/药店_Sprite.药店_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/设置_Sprite.设置_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/金钱_Sprite.金钱_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/铲子图标_Sprite.铲子图标_Sprite
+[2023.04.17-15.25.22:700][501]LogContentValidation: Display: 正在验证PaperSprite /Game/Resources/种田/铲除_Sprite.铲除_Sprite
+[2023.04.17-15.26.15:123][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
