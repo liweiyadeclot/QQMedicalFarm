@@ -1053,3 +1053,209 @@ Make sure 'BP_Hero_C' has been compiled for  Save Game
 [2023.04.22-09.48.58:289][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.04.22-09.48.58:304][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
 [2023.04.22-09.48.58:334][753]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.04.22-09.49.56:946][448]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.22-09.49.56:954][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.22-09.49.56:954][448]PIE: New page: PIE session: Farm (2023年4月23日 上午1:49:56)
+[2023.04.22-09.49.56:955][448]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Farm
+[2023.04.22-09.49.56:960][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005208s)
+[2023.04.22-09.49.56:961][448]LogAIModule: Creating AISystem for world Farm
+[2023.04.22-09.49.56:961][448]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2023.04.22-09.49.56:961][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Farm.Farm to /Game/Maps/UEDPIE_0_Farm.Farm (0.006495s)
+[2023.04.22-09.49.56:968][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.04.22-09.49.56:969][448]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.22-09.49.56:969][448]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.22-09.49.56:969][448]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.22-09.49.56:969][448]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.22-09.49.56:969][448]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.22-09.49.56:969][448]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.22-09.49.56:969][448]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.22-09.49.56:969][448]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.22-09.49.56:969][448]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.22-09.49.56:969][448]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.22-09.49.56:969][448]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.22-09.49.56:969][448]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.22-09.49.56:969][448]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.22-09.49.56:972][448]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.22-09.49.56:972][448]LogAudioMixer: Display: 1: FrontRight
+[2023.04.22-09.49.56:978][448]LogAudioMixer: Display: Using Audio Device 扬声器 (Synaptics Audio)
+[2023.04.22-09.49.56:978][448]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.22-09.49.56:978][448]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.22-09.49.56:978][448]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.22-09.49.56:979][448]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.22-09.49.56:979][448]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.22-09.49.56:979][448]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.22-09.49.56:980][448]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.22-09.49.56:980][448]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.22-09.49.56:980][448]LogInit: FAudioDevice initialized.
+[2023.04.22-09.49.56:980][448]LogAudio: Display: Audio Device (ID: 4) registered with world 'Farm'.
+[2023.04.22-09.49.56:990][448]LogLoad: Game class is 'MyGameMode_C'
+[2023.04.22-09.49.56:992][448]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Farm.Farm up for play (max tick rate 60) at 2023.04.22-17.49.56
+[2023.04.22-09.49.56:992][448]LogWorld: Bringing up level for play took: 0.000630
+[2023.04.22-09.49.56:992][448]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2023.04.22-09.49.56:999][448]LogBlueprintUserMessages: [Hero_4] 0
+[2023.04.22-09.49.57:032][448]PIE: Server logged in
+[2023.04.22-09.49.57:032][448]PIE: Play in editor total start time 0.081 seconds.
+[2023.04.22-09.50.02:645][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.22-09.50.02:645][782]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Farm
+[2023.04.22-09.50.02:645][782]LogWorld: UWorld::CleanupWorld for Farm, bSessionEnded=true, bCleanupResources=true
+[2023.04.22-09.50.02:646][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-09.50.02:658][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.22-09.50.02:661][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-09.50.02:671][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.22-09.50.02:671][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.22-09.50.02:672][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.22-09.50.02:678][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.04.22-09.50.02:706][784]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.04.22-09.50.08:989][161]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.22-09.50.09:006][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.22-09.50.09:006][161]PIE: New page: PIE session: Farm (2023年4月23日 上午1:50:09)
+[2023.04.22-09.50.09:006][161]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Farm
+[2023.04.22-09.50.09:017][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010799s)
+[2023.04.22-09.50.09:019][161]LogAIModule: Creating AISystem for world Farm
+[2023.04.22-09.50.09:020][161]LogPlayLevel: PIE: World Init took: (0.002560s)
+[2023.04.22-09.50.09:020][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Farm.Farm to /Game/Maps/UEDPIE_0_Farm.Farm (0.013626s)
+[2023.04.22-09.50.09:035][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.04.22-09.50.09:036][161]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.22-09.50.09:036][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.22-09.50.09:036][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.22-09.50.09:036][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.22-09.50.09:036][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.22-09.50.09:036][161]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.22-09.50.09:036][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.22-09.50.09:036][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.22-09.50.09:037][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.22-09.50.09:037][161]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.22-09.50.09:037][161]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.22-09.50.09:037][161]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.22-09.50.09:038][161]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.22-09.50.09:045][161]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.22-09.50.09:045][161]LogAudioMixer: Display: 1: FrontRight
+[2023.04.22-09.50.09:059][161]LogAudioMixer: Display: Using Audio Device 扬声器 (Synaptics Audio)
+[2023.04.22-09.50.09:060][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.22-09.50.09:060][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.22-09.50.09:060][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.22-09.50.09:061][161]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.22-09.50.09:061][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.22-09.50.09:061][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.22-09.50.09:063][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.22-09.50.09:063][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.22-09.50.09:063][161]LogInit: FAudioDevice initialized.
+[2023.04.22-09.50.09:064][161]LogAudio: Display: Audio Device (ID: 5) registered with world 'Farm'.
+[2023.04.22-09.50.09:075][161]LogLoad: Game class is 'MyGameMode_C'
+[2023.04.22-09.50.09:078][161]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Farm.Farm up for play (max tick rate 60) at 2023.04.22-17.50.09
+[2023.04.22-09.50.09:078][161]LogWorld: Bringing up level for play took: 0.001325
+[2023.04.22-09.50.09:079][161]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.04.22-09.50.09:096][161]LogBlueprintUserMessages: [Hero_4] 0
+[2023.04.22-09.50.09:181][161]PIE: Server logged in
+[2023.04.22-09.50.09:182][161]PIE: Play in editor total start time 0.181 seconds.
+[2023.04.22-09.50.20:719][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.22-09.50.20:719][834]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Farm
+[2023.04.22-09.50.20:720][834]LogWorld: UWorld::CleanupWorld for Farm, bSessionEnded=true, bCleanupResources=true
+[2023.04.22-09.50.20:720][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-09.50.20:736][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.22-09.50.20:741][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-09.50.20:760][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.22-09.50.20:761][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.22-09.50.20:763][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.22-09.50.20:777][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.04.22-09.50.20:802][835]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.04.22-09.50.25:521][ 93]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Hero.BP_Hero
+[2023.04.22-09.50.26:074][ 93]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2023.04.22-09.50.27:537][ 93]LogScript: Warning: Accessed None trying to read property BagUI
+	InventoryComponent_C /Engine/Transient.World_0:PersistentLevel.BP_Hero_C_0.InventoryComponent
+	Function /Game/BluePrints/InventoryComponent.InventoryComponent_C:ExecuteUbergraph_InventoryComponent:02B2
+[2023.04.22-09.50.27:539][ 93]LogScript: Warning: Accessed None trying to read property BagUI
+	InventoryComponent_C /Engine/Transient.World_0:PersistentLevel.BP_Hero_C_0.InventoryComponent
+	Function /Game/BluePrints/InventoryComponent.InventoryComponent_C:ExecuteUbergraph_InventoryComponent:02B2
+[2023.04.22-09.50.27:540][ 93]LogScript: Warning: Accessed None trying to read property BagUI
+	InventoryComponent_C /Engine/Transient.World_0:PersistentLevel.BP_Hero_C_0.InventoryComponent
+	Function /Game/BluePrints/InventoryComponent.InventoryComponent_C:ExecuteUbergraph_InventoryComponent:02B2
+[2023.04.22-09.50.27:542][ 93]LogScript: Warning: Accessed None trying to read property BagUI
+	InventoryComponent_C /Engine/Transient.World_0:PersistentLevel.BP_Hero_C_0.InventoryComponent
+	Function /Game/BluePrints/InventoryComponent.InventoryComponent_C:ExecuteUbergraph_InventoryComponent:02B2
+[2023.04.22-09.50.27:550][ 93]LogSlate: Took 0.000517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.22-09.50.27:653][ 94]LogSlate: Took 0.000491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.22-09.50.38:379][503]BlueprintLog: New page: Compile BP_Hero
+[2023.04.22-09.50.38:472][503]LogScript: Warning: Accessed None trying to read property BagUI
+	InventoryComponent_C /Game/Maps/Farm.Farm:PersistentLevel.Hero_4.InventoryComponent
+	Function /Game/BluePrints/InventoryComponent.InventoryComponent_C:ExecuteUbergraph_InventoryComponent:02B2
+[2023.04.22-09.50.38:475][503]LogScript: Warning: Accessed None trying to read property BagUI
+	InventoryComponent_C /Game/Maps/Farm.Farm:PersistentLevel.Hero_4.InventoryComponent
+	Function /Game/BluePrints/InventoryComponent.InventoryComponent_C:ExecuteUbergraph_InventoryComponent:02B2
+[2023.04.22-09.50.38:478][503]LogScript: Warning: Accessed None trying to read property BagUI
+	InventoryComponent_C /Game/Maps/Farm.Farm:PersistentLevel.Hero_4.InventoryComponent
+	Function /Game/BluePrints/InventoryComponent.InventoryComponent_C:ExecuteUbergraph_InventoryComponent:02B2
+[2023.04.22-09.50.38:482][503]LogScript: Warning: Accessed None trying to read property BagUI
+	InventoryComponent_C /Game/Maps/Farm.Farm:PersistentLevel.Hero_4.InventoryComponent
+	Function /Game/BluePrints/InventoryComponent.InventoryComponent_C:ExecuteUbergraph_InventoryComponent:02B2
+[2023.04.22-09.50.38:489][503]LogScript: Warning: Accessed None trying to read property BagUI
+	InventoryComponent_C /Game/Maps/Store.Store:PersistentLevel.BP_Hero_2.InventoryComponent
+	Function /Game/BluePrints/InventoryComponent.InventoryComponent_C:ExecuteUbergraph_InventoryComponent:02B2
+[2023.04.22-09.50.38:493][503]LogScript: Warning: Accessed None trying to read property BagUI
+	InventoryComponent_C /Game/Maps/Store.Store:PersistentLevel.BP_Hero_2.InventoryComponent
+	Function /Game/BluePrints/InventoryComponent.InventoryComponent_C:ExecuteUbergraph_InventoryComponent:02B2
+[2023.04.22-09.50.38:496][503]LogScript: Warning: Accessed None trying to read property BagUI
+	InventoryComponent_C /Game/Maps/Store.Store:PersistentLevel.BP_Hero_2.InventoryComponent
+	Function /Game/BluePrints/InventoryComponent.InventoryComponent_C:ExecuteUbergraph_InventoryComponent:02B2
+[2023.04.22-09.50.38:499][503]LogScript: Warning: Accessed None trying to read property BagUI
+	InventoryComponent_C /Game/Maps/Store.Store:PersistentLevel.BP_Hero_2.InventoryComponent
+	Function /Game/BluePrints/InventoryComponent.InventoryComponent_C:ExecuteUbergraph_InventoryComponent:02B2
+[2023.04.22-09.50.38:614][503]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2023.04.22-09.50.38:959][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Hero" FILE="F:/111/QQMedicalFarm/Content/BluePrints/BP_Hero.uasset" SILENT=true
+[2023.04.22-09.50.38:995][504]LogSavePackage: Moving 'F:/111/QQMedicalFarm/Saved/BP_Hero207B00A949A57BBE29D66ABCA992A84E.tmp' to 'F:/111/QQMedicalFarm/Content/BluePrints/BP_Hero.uasset'
+[2023.04.22-09.50.39:032][504]AssetCheck: New page: Asset Save: BP_Hero
+[2023.04.22-09.50.39:032][504]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Hero.BP_Hero
+[2023.04.22-09.50.41:266][601]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.22-09.50.41:285][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.22-09.50.41:285][601]PIE: New page: PIE session: Farm (2023年4月23日 上午1:50:41)
+[2023.04.22-09.50.41:285][601]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Farm
+[2023.04.22-09.50.41:295][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009850s)
+[2023.04.22-09.50.41:298][601]LogAIModule: Creating AISystem for world Farm
+[2023.04.22-09.50.41:299][601]LogPlayLevel: PIE: World Init took: (0.003318s)
+[2023.04.22-09.50.41:299][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Farm.Farm to /Game/Maps/UEDPIE_0_Farm.Farm (0.013434s)
+[2023.04.22-09.50.41:351][601]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2023.04.22-09.50.41:352][601]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.22-09.50.41:352][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.22-09.50.41:352][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.22-09.50.41:352][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.22-09.50.41:353][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.22-09.50.41:353][601]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.22-09.50.41:353][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.22-09.50.41:353][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.22-09.50.41:353][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.22-09.50.41:354][601]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.22-09.50.41:354][601]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.22-09.50.41:354][601]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.22-09.50.41:354][601]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.22-09.50.41:360][601]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.22-09.50.41:360][601]LogAudioMixer: Display: 1: FrontRight
+[2023.04.22-09.50.41:374][601]LogAudioMixer: Display: Using Audio Device 扬声器 (Synaptics Audio)
+[2023.04.22-09.50.41:375][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.22-09.50.41:375][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.22-09.50.41:375][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.22-09.50.41:376][601]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.22-09.50.41:376][601]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.22-09.50.41:376][601]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.22-09.50.41:378][601]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.22-09.50.41:378][601]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.22-09.50.41:378][601]LogInit: FAudioDevice initialized.
+[2023.04.22-09.50.41:378][601]LogAudio: Display: Audio Device (ID: 6) registered with world 'Farm'.
+[2023.04.22-09.50.41:393][601]LogLoad: Game class is 'MyGameMode_C'
+[2023.04.22-09.50.41:396][601]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Farm.Farm up for play (max tick rate 60) at 2023.04.22-17.50.41
+[2023.04.22-09.50.41:397][601]LogWorld: Bringing up level for play took: 0.001379
+[2023.04.22-09.50.41:397][601]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.04.22-09.50.41:416][601]LogBlueprintUserMessages: [Hero_4] 0
+[2023.04.22-09.50.41:502][601]PIE: Server logged in
+[2023.04.22-09.50.41:503][601]PIE: Play in editor total start time 0.225 seconds.
+[2023.04.22-09.50.42:910][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.22-09.50.42:911][676]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Farm
+[2023.04.22-09.50.42:911][676]LogWorld: UWorld::CleanupWorld for Farm, bSessionEnded=true, bCleanupResources=true
+[2023.04.22-09.50.42:912][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-09.50.42:930][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.22-09.50.42:940][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-09.50.42:986][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.22-09.50.42:987][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.22-09.50.42:989][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.22-09.50.42:993][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.22-09.50.43:006][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2023.04.22-09.50.43:033][677]LogPlayLevel: Display: Destroying online subsystem :Context_6
