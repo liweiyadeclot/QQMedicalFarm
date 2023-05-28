@@ -1091,3 +1091,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.28-08.28.15:800][755]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2023.05.28-08.28.17:447][865]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (地皮_Sprite)
 [2023.05.28-08.28.17:797][880]Cmd: SELECT NONE
+[2023.05.28-08.29.12:368][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Farm" FILE="F:/111/QQMedicalFarm/Content/Maps/Farm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.28-08.29.12:430][647]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2023.05.28-08.29.12:471][647]LogSavePackage: Moving 'F:/111/QQMedicalFarm/Saved/Farm8DD790A54E5F3759A4C17AA6CC133A05.tmp' to 'F:/111/QQMedicalFarm/Content/Maps/Farm.umap'
+[2023.05.28-08.29.12:531][647]AssetCheck: New page: Asset Save: Farm
+[2023.05.28-08.29.12:531][647]LogContentValidation: Display: Validating World /Game/Maps/Farm.Farm
